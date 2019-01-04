@@ -1,2 +1,3 @@
 # Data-Science-Projects
-This is the repository of my own previous work done in Data Science
+This is the repository of my own previous work done in Data Science.
+This project aims to develop a strategy to segment the customers based on selected KPI (Key Performance Indicators) in order to yield more revenue for the company. This project also gives an insight of the behavioral pattern of customers and hence giving the company, an access to promote better offers for different kinds of customers.  Such projects are commonly used by Telecom, Credit Card Banking, Health, Insurance, Car Manufacturing or any kind of product companies to get to know the spend patterns of the customers. 
